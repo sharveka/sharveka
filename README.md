@@ -1,2 +1,4 @@
-안녕하세요, 백엔드 개발자 지망생 이진주입니다.
-주로 사용하는 언어는 C++, Java 이며, 이외에 MySQL, Node.js 를 다룰 수 있습니다.
+안녕하세요, 개발자 지망생 이진주입니다.
+주사용언어 : C++, Java, Python
+활용 가능 : MySQL, Node.js
+해석 가능 : HTML, CSS, JavaScript
